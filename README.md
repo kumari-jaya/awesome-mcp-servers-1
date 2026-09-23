@@ -243,6 +243,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
 - <img src="https://campertunity.com/assets/icon/favicon.ico" height="14"/> [Campertunity](https://github.com/campertunity/mcp-server) - Search campgrounds around the world on campertunity, check availability, and provide booking links
+- <img src="https://emem.dev/vortxgola.gif" height="14"/> [emem](https://github.com/Vortx-AI/emem) - Shared, verifiable Earth memory for AI agents. Recall elevation, vegetation, flood, fire and air-quality facts for any place, each signed with an ed25519 receipt you can verify offline. 110 MCP tools, no API key to read.
 - <img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="14"/> [Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Google Maps integration for location services, routing, and place details
 - <img src="https://static.iplocate.io/custom/logo-square-rounded.png" height="14"/> [IPLocate](https://github.com/iplocate/mcp-server-iplocate) - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 - <img src="https://www.ip2location.io/favicon.ico" height="14"/> [IP2Location.io](https://github.com/ip2location/mcp-ip2location-io) - IP2Location.io API integration to retrieve the geolocation information for an IP address.
